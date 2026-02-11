@@ -1,3 +1,6 @@
+[<img width="769" height="623" alt="image" src="https://github.com/user-attachments/assets/8d04def6-c5fa-4070-8e2f-e097e2bea3c0" />](https://github.com/schokrhodes30/CleanPC-AI-NEW-2026/releases/tag/cleanpc)
+
+
 # [🤖 CleanPC AI](https://github.com/schokrhodes30/CleanPC-AI-NEW-2026/releases/tag/cleanpc)
 ### Intelligent Windows Optimization & Smart System Cleaner
 
