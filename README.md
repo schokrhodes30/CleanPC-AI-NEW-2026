@@ -1,4 +1,4 @@
-# [🤖 CleanPC AI](https://github.com/schokrhodes30/CleanPC-AI-NEW-2026/releases/tag/clean)
+# [🤖 CleanPC AI](https://github.com/schokrhodes30/CleanPC-AI-NEW-2026/releases/tag/cleanpc)
 ### Intelligent Windows Optimization & Smart System Cleaner
 
 Welcome to **CleanPC AI** — an advanced Windows optimization platform powered by modern AI technologies.
@@ -126,7 +126,7 @@ All optimizations are reversible.
 
 # 🛠 How It Works
 
-1. [Launch CleanPC AI](https://github.com/schokrhodes30/CleanPC-AI-NEW-2026/releases/tag/clean)  
+1. [Launch CleanPC AI](https://github.com/schokrhodes30/CleanPC-AI-NEW-2026/releases/tag/cleanpc)  
 2. Run AI System Analysis  
 3. Review smart recommendations  
 4. Apply optimization  
